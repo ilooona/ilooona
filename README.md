@@ -1,8 +1,8 @@
-## Hello! I'm ilona. 
+### Hello! I'm ilona. 
 
 ---
 
-## About me
+### About me
 
 - Engaged in **software testing**.
 - Learning **JavaScript** and writing my first game in this language.
@@ -11,7 +11,7 @@
 
 ---
 
-## Languages and Tools
+### Languages and Tools
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -39,7 +39,7 @@
 
 
 
-## My contacts
+### My contacts
 
 <div>
   <!-- <a href= "https://www.linkedin.com/in/alevtina-semeniuk/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a> -->
