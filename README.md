@@ -1,4 +1,4 @@
-### Hello! I'm ilona. 
+## Hello! I'm ilona. 
 
 ---
 
@@ -42,7 +42,7 @@
 ### My contacts
 
 <div>
-  <!-- <a href= "https://www.linkedin.com/in/alevtina-semeniuk/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a> -->
+  <!-- <a href= "https://www.linkedin.com//"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a> -->
   <a href= "https://t.me/Little_donald"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/></a>
   <a href= "mailto:o.ilonushka9413214@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40" height="40" alt="gmail"/></a>
 </div>
